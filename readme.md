@@ -9,7 +9,7 @@ Input your proxy ip : ip 입력
 Input your proxy port : port 입력 
 
 ### Proxy Setting Menu ###
-1 : npm - set tproxy
+1 : npm - set proxy
 2 : npm - unset proxy
 3 : git - set proxy
 4 : git - unset proxy
