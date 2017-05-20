@@ -18,7 +18,6 @@ input=0
 while [ 99 -ne ${input} ]
 do
     read -p "Select number : " input
-    echo "입력받은 값 : " ${input}
 
     case $input in
         1)
