@@ -75,14 +75,6 @@ do
                 echo "done !!"
             fi
             ;;
-          5) abcd || chk=1
-            if [ ${chk} -eq 1 ];then
-                echo "You have to install git."
-                chk=0
-            else
-                echo "aaaa"
-            fi
-            ;;
          99)
             echo "bye"
             ;;
